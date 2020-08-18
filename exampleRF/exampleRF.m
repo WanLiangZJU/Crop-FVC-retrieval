@@ -14,10 +14,10 @@ data1=xlsread('xx.xlsx','regression');
 % [m,n]=sort(data2(1:900,10));
 % for k=1:300
 %     aa(k,1)=n(3*(k-1)+1);
-% XRest(k,:)= data(n(3*(k-1)+1),:);  %第3个为预测集。输入的是主成分数.
+% XRest(k,:)= data(n(3*(k-1)+1),:);  
 % end
 % bb = setdiff(n, aa);
-% XSelected=data(bb,:);  %前两个为训练集。
+% XSelected=data(bb,:); 
 num=size(data,1)*2/3;
 m=size(data,1)*2/3;
 n=size(data,1)*1/3;
