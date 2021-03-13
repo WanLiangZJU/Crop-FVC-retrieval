@@ -19,10 +19,9 @@ Please update the code and run the main code
 As for different datasets, set the range of mode parameters based on previous studies and field measuremnts
 
 # Notably, some key information
-This code uses the UAV-based multispectral image with the spectral region of 604-872 nm
+This code uses the UAV-based multispectral image with the spectral region of 604-872 nm.
 If you have different spectral regions, please refer to the original code online http://teledetection.ipgp.jussieu.fr/prosail/
 
-Here, the canopy reflectance was input, which would match with the simulated relfectance
-Canopy reflectance is determined based on a weighted combination of the bi-directional and hemispherical-directional reflectance 
-with weights corresponding to the fraction of diffuse incident solar radiation (skyl)
-The detailed information can be fould in chi2P5B.m and PRO4SAIL.m
+Here, the canopy reflectance was input, which would match with the simulated relfectance.
+Canopy reflectance is determined based on a weighted combination of the bi-directional and hemispherical-directional reflectance with weights corresponding to the fraction of diffuse incident solar radiation (skyl).
+The detailed information can be fould in chi2P5B.m and PRO4SAIL.m.
