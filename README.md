@@ -25,3 +25,5 @@ If you have different spectral regions, please refer to the original code online
 Here, the canopy reflectance was input, which would match with the simulated relfectance.
 Canopy reflectance is determined based on a weighted combination of the bi-directional and hemispherical-directional reflectance with weights corresponding to the fraction of diffuse incident solar radiation (skyl).
 The detailed information can be fould in chi2P5B.m and PRO4SAIL.m.
+
+# The detailed descriptions about the datasets can be found in our published papers.
