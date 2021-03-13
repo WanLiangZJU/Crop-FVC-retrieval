@@ -13,12 +13,12 @@ Main_wheat_2019.m
 Main_cotton_2019.m
 
 Please update the code and run the main code
-1. update the file for the inpot of reflectance data
+1. update the file for the input of reflectance data
 2. set the range of model parameters
-3. obtain the retrieval result, namely FVC1-FVC6, realted to six leaf angle distributions
+3. obtain the retrieval result, namely FVC, realted to different leaf angle distributions
 As for different datasets, set the range of mode parameters based on previous studies and field measuremnts
 
-# Notably, some key information
+please pay attention to some key information
 This code uses the UAV-based multispectral image with the spectral region of 604-872 nm.
 If you have different spectral regions, please refer to the original code online http://teledetection.ipgp.jussieu.fr/prosail/
 
@@ -26,4 +26,4 @@ Here, the canopy reflectance was input, which would match with the simulated rel
 Canopy reflectance is determined based on a weighted combination of the bi-directional and hemispherical-directional reflectance with weights corresponding to the fraction of diffuse incident solar radiation (skyl).
 The detailed information can be fould in chi2P5B.m and PRO4SAIL.m.
 
-# The detailed descriptions about the datasets can be found in our published papers.
+The detailed descriptions about the datasets can be found in our published papers.
