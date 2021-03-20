@@ -27,7 +27,7 @@ Here, the canopy reflectance can be input, which can match with the simulated re
 Canopy reflectance is determined based on a weighted combination of the bi-directional and hemispherical-directional reflectance with weights corresponding to the fraction of diffuse incident solar radiation (skyl).
 The detailed information can be fould in chi2P5B.m and PRO4SAIL.m.
 
-In addition, the retrieval results may be affected by the iterative optimization function, 
+In addition, the retrieval results may be slightly affected by the iterative optimization function, 
 while they don't produce the significant difference for model inversion.
 
 The detailed descriptions about the datasets can be found in our published papers.
