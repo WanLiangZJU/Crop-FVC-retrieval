@@ -31,3 +31,5 @@ In addition, the retrieval results may be slightly affected by the iterative opt
 while they don't produce the significant difference for model inversion.
 
 The detailed descriptions about the datasets can be found in our published papers.
+If you want to use the datasets and codes, please cite the paper as below:
+Liang Wan, Jiangpeng Zhu, Xiaoyue Du, Jiafei Zhang, Xiongzhe Han, Xiongzhe,Weijun Zhou, Li Xiaopeng, Jianli Liu, Liang Fei, Yong He, Haiyan Cen*. A model for phenotyping crop fractional vegetation cover using imagery from unmanned aerial vehicles. Journal of Experimental Botany. 2021, 72(13): 4691-4707. doi:10.1093/jxb/erab194
